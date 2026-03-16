@@ -25,11 +25,7 @@ Atualmente estou graduando em Defesa Cibernética na ESTÁCIO.
     src="https://github-readme-stats.vercel.app/api?username=cadumvck0x22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" 
     height="160"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadumvck0x22&layout=compact&theme=tokyonight&hide_border=true" 
-    height="160"
-  />
-</p>
+  
 
 <p align="center">
   <img 
